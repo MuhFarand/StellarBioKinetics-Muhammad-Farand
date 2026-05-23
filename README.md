@@ -1,4 +1,4 @@
-pub const PROJECT_DOCUMENTATION: &str = r#"# Stellar BioKinetics DApp
+# Stellar BioKinetics DApp
 
 **Stellar BioKinetics DApp** - Blockchain-Based Bacterial Growth Modeling and Comparative Analysis System
 
